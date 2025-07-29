@@ -6,7 +6,7 @@ body {
 text-align: center;
 }
 
-video-box {
+.video-box {
     background: #a62121;
     padding: 10px;
     border-radius: 6px;
